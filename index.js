@@ -1,4 +1,4 @@
 var hola= "hola"
 function decirHola(){
-    console.log("muchas holas")
+    console.log("está dificil")
 }
